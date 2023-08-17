@@ -1,1 +1,0 @@
-{"uuid":"4911e0d1-3968-403b-b17f-ff9d40187183","name":"ApiTask","children":["703726c4-9413-488c-8aa9-16d8d3942be1"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691519526306,"stop":1691519526615}],"afters":[],"start":1691519526268,"stop":1691519529971}
