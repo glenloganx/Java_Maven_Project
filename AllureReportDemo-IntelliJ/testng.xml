@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/glenroylogan/Desktop/AllureReportDemo-IntelliJ">
+        <classes>
+            <class name="com.sdetadda.allure.Testcase1">
+                <methods>
+                    <include name="TestMethod1"/>
+                </methods>
+            </class>
+            <class name="com.sdetadda.allure.Testcase2">
+                <methods>
+                    <include name="TestMethod2"/>
+                </methods>
+            </class>
+            <class name="com.sdetadda.allure.Testcase3">
+                <methods>
+                    <include name="TestMethod3"/>
+                    <include name="TestMethod4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
